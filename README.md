@@ -5,7 +5,7 @@ docker启动京东薅羊毛工具，自动更新，支持每日签到，京东�
 git docker docker-compose
 ### 下载
 ```sh
-git clone https://github.com/chinnkarahoi/jd-scripts-docker
+git clone https://github.com/iamruirui/jd-scripts-docker
 cd jd-scripts-docker
 ```
 ### 获取cookie
